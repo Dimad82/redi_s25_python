@@ -1,0 +1,18 @@
+# Display a movie
+
+def choose_movie(): 
+    movies = ["Inception", "The Matrix", "Intersteller", "The Dark Knight"]
+    
+    print("Availables movies:")
+    for movie in movies:
+        print(movie)
+
+    selected_movie = input("Enter your movie: ")
+
+    for selected_movie in movies:
+        print(f"Great choice! Enjoy watching {selected_movie}.")
+    else:
+        print("Sorry, the movie you entered is not available.")
+
+        # Call the function to test it
+choose_movie()

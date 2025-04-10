@@ -1,0 +1,292 @@
+[
+	{
+		"pastry_type": "DONUTS",
+		"pastries": [
+			{
+				"id": "0001",
+				"type": "Donut",
+				"name": "Cake",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "1001",
+						"type": "Regular"
+					},
+					{
+						"id": "1002",
+						"type": "Chocolate"
+					},
+					{
+						"id": "1003",
+						"type": "Blueberry"
+					},
+					{
+						"id": "1004",
+						"type": "Devil's Food"
+					}
+				],
+				"topping": [
+					{
+						"id": "1005",
+						"type": "None"
+					},
+					{
+						"id": "1006",
+						"type": "Glazed"
+					},
+					{
+						"id": "1007",
+						"type": "Sugar"
+					},
+					{
+						"id": "1008",
+						"type": "Powdered Sugar"
+					},
+					{
+						"id": "1009",
+						"type": "Chocolate with Sprinkles"
+					},
+					{
+						"id": "1010",
+						"type": "Chocolate"
+					},
+					{
+						"id": "1011",
+						"type": "Maple"
+					}
+				]
+			},
+			{
+				"id": "0002",
+				"type": "Donut",
+				"name": "Raised",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "2001",
+						"type": "Regular"
+					}
+				],
+				"topping": [
+					{
+						"id": "2002",
+						"type": "None"
+					},
+					{
+						"id": "2003",
+						"type": "Glazed"
+					},
+					{
+						"id": "2004",
+						"type": "Sugar"
+					},
+					{
+						"id": "2005",
+						"type": "Chocolate"
+					},
+					{
+						"id": "2006",
+						"type": "Maple"
+					}
+				]
+			},
+			{
+				"id": "0003",
+				"type": "Donut",
+				"name": "Old Fashioned",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "3001",
+						"type": "Regular"
+					},
+					{
+						"id": "3002",
+						"type": "Chocolate"
+					}
+				],
+				"topping": [
+					{
+						"id": "3003",
+						"type": "None"
+					},
+					{
+						"id": "3004",
+						"type": "Glazed"
+					},
+					{
+						"id": "3005",
+						"type": "Chocolate"
+					},
+					{
+						"id": "3006",
+						"type": "Maple"
+					}
+				]
+			}
+		]
+	},
+	{
+		"pastry_type": "CAKES",
+		"pastries": [
+			{
+				"id": "0004",
+				"type": "Cake",
+				"name": "Layer Cake",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "4001",
+						"type": "Chocolate"
+					},
+					{
+						"id": "4002",
+						"type": "Vanilla"
+					},
+					{
+						"id": "4003",
+						"type": "Devil's Food"
+					},
+					{
+						"id": "4004",
+						"type": "Sponge"
+					}
+				],
+				"topping": [
+					{
+						"id": "4005",
+						"type": "Chocolate"
+					},
+					{
+						"id": "4006",
+						"type": "Vanilla"
+					},
+					{
+						"id": "4007",
+						"type": "Oreo"
+					},
+					{
+						"id": "4008",
+						"type": "Caramel"
+					},
+					{
+						"id": "4009",
+						"type": "Buttercream"
+					},
+					{
+						"id": "4010",
+						"type": "Dark Chocolate"
+					}
+				]
+			},
+			{
+				"id": "0005",
+				"type": "Cake",
+				"name": "Cheese Cake",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "5001",
+						"type": "Plain"
+					},
+					{
+						"id": "5002",
+						"type": "Chocolate"
+					},
+					{
+						"id": "5003",
+						"type": "Quark"
+					}
+				],
+				"topping": [
+					{
+						"id": "5004",
+						"type": "None"
+					},
+					{
+						"id": "5005",
+						"type": "Strawberries"
+					},
+					{
+						"id": "5006",
+						"type": "Raspberries"
+					},
+					{
+						"id": "5007",
+						"type": "Blueberries"
+					},
+					{
+						"id": "5008",
+						"type": "Chocolate"
+					},
+					{
+						"id": "5009",
+						"type": "Dark Chocolate"
+					},
+					{
+						"id": "5010",
+						"type": "Whipped Cream"
+					}
+				]
+			},
+			{
+				"id": "0006",
+				"type": "Cake",
+				"name": "Torte Cakes",
+				"ppu": 0.55,
+				"batters": [
+					{
+						"id": "6001",
+						"type": "Black Forest"
+					},
+					{
+						"id": "6002",
+						"type": "Napoleon"
+					},
+					{
+						"id": "6003",
+						"type": "Prinzregententorte"
+					},
+					{
+						"id": "6004",
+						"type": "Runeberg Torte"
+					},
+					{
+						"id": "6005",
+						"type": "Whiskey Torte"
+					}
+				],
+				"topping": [
+					{
+						"id": "6006",
+						"type": "Powdered Sugar"
+					},
+					{
+						"id": "6007",
+						"type": "Fruit"
+					},
+					{
+						"id": "6008",
+						"type": "Icing"
+					},
+					{
+						"id": "6009",
+						"type": "Chocolate"
+					},
+					{
+						"id": "6010",
+						"type": "Nutella"
+					},
+					{
+						"id": "6011",
+						"type": "Dark Chocolate"
+					},
+					{
+						"id": "6012",
+						"type": "Whipped Cream"
+					}
+				]
+			}
+		]
+	}
+]
