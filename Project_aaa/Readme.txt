@@ -10,10 +10,10 @@ Requirements:
 - Error Exceptiones
 - Database should be be localy stored in MySQL
 
-User should be prompt to input the name of the Ocean and it should show how many pollution is there
+User should hover over the points and it should show the name of the Ocean and how many Pollution in tons is there.
 
 https://discuss.streamlit.io/t/clicking-an-element-on-st-maps/1908
-Idea for pydeck.py to hoov over the Points.
+Idea for pydeck.py to hover over the Points.
 
 API used:
 https://towardsai.net/p/l/underwater-trash-detection-using-opensource-monk-toolkit
