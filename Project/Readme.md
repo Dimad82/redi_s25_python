@@ -29,7 +29,9 @@ run: streamlit run c:/Users/ivand/Documents/redi_s25_python/Project/Project.py
 
 ## How i get the idea for all the work done
 https://discuss.streamlit.io/t/clicking-an-element-on-st-maps/1908
-Idea for pydeck.py to hoov over the Points.
+Idea for pydeck.py to hover over the Points.
+
+https://discuss.streamlit.io/t/event-handling-of-pydeck-chart-map-in-streamlit/10842
 
 API used:
 https://towardsai.net/p/l/underwater-trash-detection-using-opensource-monk-toolkit
