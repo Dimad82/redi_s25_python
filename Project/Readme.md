@@ -1,8 +1,9 @@
-Final Project_Oceans_Pollution data visualisation
+# Final Project_Oceans_Pollution data visualisation
 
- - App that shows which Ocean has how many garbage Floating in them
+## What it does
+App that shows which Ocean has how many garbage Floating in them
 
-Requirements:
+## Requirements:
 - Code (Object oriented, with classes)
 - Readme
 - Virtual Enviroment
@@ -10,6 +11,7 @@ Requirements:
 - Error Exceptiones
 - Database should be be localy stored in MySQL
 
+## How it works
 User should be prompt to hover over the name of the Ocean and it should show how many pollution is there
 
 https://discuss.streamlit.io/t/clicking-an-element-on-st-maps/1908
