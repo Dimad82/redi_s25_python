@@ -1,6 +1,6 @@
-Final Project_Oceans_Garbage data visualisation
+Final Project_Oceans_Pollution data visualisation
 
- - App that shows which Ocean has how many garbage Floating under water but also on surface
+ - App that shows which Ocean has how many garbage Floating in them
 
 Requirements:
 - Code (Object oriented, with classes)
@@ -10,7 +10,7 @@ Requirements:
 - Error Exceptiones
 - Database should be be localy stored in MySQL
 
-User should be prompt to input the name of the Ocean and it should show how many pollution is there
+User should be prompt to hover over the name of the Ocean and it should show how many pollution is there
 
 https://discuss.streamlit.io/t/clicking-an-element-on-st-maps/1908
 Idea for pydeck.py to hoov over the Points.
