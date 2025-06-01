@@ -1,0 +1,30 @@
+SHOW DATABASES;
+CREATE DATABASE redi_lessons;
+USE redi_lessons;
+SHOW TABLES;
+CREATE TABLE users (
+id INT AUTO_INCREMENT PRIMARY KEY,
+name VARCHAR(255),
+email VARCHAR(255))
+DESCRIBE users;
+INSERT INTO users (name)
+values("redi-1");
+SELECT * FROM users;
+
+UPDATE users SET email="redi@redi"
+WHERE name="redi"
+DELETE FROM users WHERE id=2
+
+SHOW DATABASES;
+CREATE DATABASE redi_lessons;
+USE redi_lessons;
+SHOW TABLES;
+CREATE TABLE users (id INT AUTO_INCREMENT PRIMARY KEY,name VARCHAR(255),email VARCHAR(255));
+DESCRIBE users;
+INSERT INTO users (name, email)values("redi", "redi@redi");
+SELECT * FROM users;
+
+UPDATE users SET email="redi@redi"WHERE id=1;
+DELETE FROM users WHERE id=2;
+
+https://dev.mysql.com/doc/connector-python/en/connector-python-example-connecting.html

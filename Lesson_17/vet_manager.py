@@ -33,3 +33,5 @@ animals = [
 # Printing the list of animals
 for animal in animals:
     print(animal)
+
+

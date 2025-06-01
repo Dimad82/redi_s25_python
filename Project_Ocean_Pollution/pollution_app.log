@@ -1,0 +1,5 @@
+2025-06-01 15:16:08,589 - INFO - Starting Pollution Oceans App
+2025-06-01 15:16:08,589 - INFO - Initializing PollutionMap class
+2025-06-01 15:16:08,590 - INFO - Data successfully loaded into DataFrame
+2025-06-01 15:16:09,153 - INFO - Pollution map displayed successfully
+2025-06-01 15:16:09,153 - INFO - Initializing RecyclingQuestion class
