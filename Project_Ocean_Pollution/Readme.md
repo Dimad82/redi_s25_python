@@ -32,7 +32,7 @@ import logging
 - Database is localy stored with DataFrame
 
 ## How to run it
-streamlit run Final_Project.py         
+streamlit run Ocean_Pollution.py         
 
 ## Sources
 https://discuss.streamlit.io/t/clicking-an-element-on-st-maps/1908
